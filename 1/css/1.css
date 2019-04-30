@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+input.form-control.mr-sm-12 {
+    width: 80%;
+}
+
+form.form-inline {
+    width: 100%;
+}
+
+.abc {
+    float: left;
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    padding: 15px 0px;
+}
